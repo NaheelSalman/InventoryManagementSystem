@@ -1,0 +1,8 @@
+If you are running this software at local machine first of all install mysql server
+then create database name ims
+then open new sql script file and now open ims.sql which is given in this project
+and paste it and run it 
+you will successfully installed it 
+now open project in eclipse or netbeans 
+set external libraries
+now download mysql java connector 8.0 if you are using mysql 8.0
